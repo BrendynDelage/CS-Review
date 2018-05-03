@@ -1,6 +1,6 @@
 cat
 cow
-rooster
-dolphin
 dog
+dolphin
 duck
+rooster
